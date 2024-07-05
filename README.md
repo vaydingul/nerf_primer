@@ -3,6 +3,8 @@
 
 This repository contains a minimal implementation of a Neural Radiance Fields (NeRF) model using PyTorch. The code includes generating synthetic data, defining the NeRF model, training, and rendering images.
 
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Bcw1q_JbRx4eCDhCiOUcn8f_2r3_Jm-G?usp=sharinghttps://colab.research.google.com/drive/1Bcw1q_JbRx4eCDhCiOUcn8f_2r3_Jm-G?usp=sharing)
+
 ## Repository Structure
 
 - `dataset.py`: Contains the `DummyCubeDataset` class for generating a dataset of synthetic cube images and their corresponding camera poses.
